@@ -1,2 +1,2 @@
-app/bin
-test/bin
+*app/bin
+*test/bin
