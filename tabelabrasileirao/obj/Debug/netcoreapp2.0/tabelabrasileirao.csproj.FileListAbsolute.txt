@@ -1,0 +1,10 @@
+/home/ubuntu/tabelaBrasileirao/tabelabrasileirao/obj/Debug/netcoreapp2.0/tabelabrasileirao.csproj.CoreCompileInputs.cache
+/home/ubuntu/tabelaBrasileirao/tabelabrasileirao/obj/Debug/netcoreapp2.0/tabelabrasileirao.AssemblyInfoInputs.cache
+/home/ubuntu/tabelaBrasileirao/tabelabrasileirao/obj/Debug/netcoreapp2.0/tabelabrasileirao.AssemblyInfo.cs
+/home/ubuntu/tabelaBrasileirao/tabelabrasileirao/bin/Debug/netcoreapp2.0/tabelabrasileirao.deps.json
+/home/ubuntu/tabelaBrasileirao/tabelabrasileirao/bin/Debug/netcoreapp2.0/tabelabrasileirao.runtimeconfig.json
+/home/ubuntu/tabelaBrasileirao/tabelabrasileirao/bin/Debug/netcoreapp2.0/tabelabrasileirao.runtimeconfig.dev.json
+/home/ubuntu/tabelaBrasileirao/tabelabrasileirao/bin/Debug/netcoreapp2.0/tabelabrasileirao.dll
+/home/ubuntu/tabelaBrasileirao/tabelabrasileirao/bin/Debug/netcoreapp2.0/tabelabrasileirao.pdb
+/home/ubuntu/tabelaBrasileirao/tabelabrasileirao/obj/Debug/netcoreapp2.0/tabelabrasileirao.dll
+/home/ubuntu/tabelaBrasileirao/tabelabrasileirao/obj/Debug/netcoreapp2.0/tabelabrasileirao.pdb
